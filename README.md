@@ -22,6 +22,8 @@ Run training script
 ```
 python Keras_mutliclass_train.py
 ```
+This will train the model and save the model and weights file in the models directory in hp.5 format.
+
 Run the flask app
 
 ```
